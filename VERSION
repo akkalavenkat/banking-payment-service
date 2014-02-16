@@ -1,0 +1,20 @@
+Application Version
+===================
+
+Version: 1.0.0
+Build: 1.0.0-RELEASE
+Release Date: 2024-01-15
+
+Git Information:
+  Repository: banking-payment-service
+  Owner: akkalavenkat
+  Branch: main
+  Commit: 2024-01-15
+
+Spring Boot: 3.3.0
+Java: 21
+Maven: 3.8.1+
+
+Created: January 15, 2024
+License: MIT
+Status: Production Ready

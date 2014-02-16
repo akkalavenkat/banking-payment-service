@@ -479,9 +479,12 @@ This is a **production-ready**, **enterprise-grade** banking service that:
 
 **Project Status**: ✅ COMPLETE AND READY TO USE
 
-**Created**: January 2024  
-**Version**: 1.0.0  
-**License**: MIT  
+**Repository Information**
+- **Created**: January 15, 2024  
+- **Version**: 1.0.0  
+- **License**: MIT  
+- **Owner**: akkalavenkat
+- **Repository**: banking-payment-service  
 
 ---
 

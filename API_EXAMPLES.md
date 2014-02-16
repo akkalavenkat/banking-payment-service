@@ -317,3 +317,11 @@ Run with:
 ```bash
 jmeter -n -t test_plan.jmx -l results.jtl -j log.txt
 ```
+
+---
+
+**API Examples Information**
+- **Created**: January 2024
+- **Last Updated**: 2024-01-15
+- **API Version**: 1.0
+- **Examples Valid For**: Spring Boot 3.3.0+

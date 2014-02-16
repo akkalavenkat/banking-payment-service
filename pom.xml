@@ -16,7 +16,21 @@
     <artifactId>banking-payment-service</artifactId>
     <version>1.0.0</version>
     <name>Banking Payment Service</name>
-    <description>Enterprise banking and payment service with REST APIs</description>
+    <description>Enterprise banking and payment service with REST APIs - Created: January 2024</description>
+    <inceptionYear>2024</inceptionYear>
+    <url>https://github.com/akkalavenkat/banking-payment-service</url>
+    
+    <developers>
+        <developer>
+            <name>Akkalavenkat</name>
+            <email>banking@example.com</email>
+            <organization>Banking Service</organization>
+            <roles>
+                <role>Developer</role>
+                <role>Architect</role>
+            </roles>
+        </developer>
+    </developers>
 
     <properties>
         <java.version>21</java.version>
