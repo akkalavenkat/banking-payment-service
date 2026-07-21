@@ -1,0 +1,66 @@
+# Ignore compilation output
+/target/
+*.class
+*.jar
+*.war
+
+# IDE configuration
+/.idea/
+.vscode/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Maven build
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+/pom.xml.next
+/release.properties
+/dependency-reduced-pom.xml
+
+# Gradle
+/.gradle/
+/build/
+*.gradle
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.~*
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Application runtime
+*.pid
+*.seed
+*.db
+*.sqlite
+
+# Docker
+.dockerignore
+
+# Node (if using frontend build tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Test coverage
+/coverage/
+.coverage
+*.coverage
+
+# OS specific
+.AppleDouble
+.LSOverride
+ehthumbs.db
