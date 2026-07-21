@@ -235,3 +235,11 @@ mvn clean deploy -P release
 - Review API_EXAMPLES.md for usage patterns
 
 Thank you for contributing!
+
+---
+
+**Contributing Guide Information**
+- **Created**: January 2024
+- **Last Updated**: 2024-01-15
+- **Repository**: banking-payment-service
+- **Owner**: akkalavenkat

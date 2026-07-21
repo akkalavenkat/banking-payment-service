@@ -1,0 +1,89 @@
+Repository Metadata
+===================
+
+Project Name:         Banking Payment Service
+Repository:           banking-payment-service
+Owner:               akkalavenkat
+URL:                 https://github.com/akkalavenkat/banking-payment-service
+
+Version Information:
+  Version:           1.0.0
+  Release Date:      2024-01-15
+  Status:            Production Ready
+
+Creation Information:
+  Initial Commit:    2024-01-15
+  Created:           January 15, 2024
+  Language:          Java 21
+  Framework:         Spring Boot 3.3.0
+
+Technologies:
+  - Spring Boot 3.3.0
+  - Java 21
+  - PostgreSQL 16
+  - Redis 7
+  - JWT Authentication
+  - Docker & Docker Compose
+
+Git Information:
+  Default Branch:    main
+  Current Branch:    main
+  Commit Strategy:   Feature Branches
+  License:           MIT
+
+Project Statistics:
+  Total Files:       45+
+  Java Classes:      35
+  Test Classes:      3
+  Configuration:     4 profiles
+  Documentation:     8 files+
+  SQL Tables:        3
+  API Endpoints:     13
+  Lines of Code:     8000+
+
+Deployment:
+  Docker Support:    Yes
+  Docker Compose:    Yes
+  Container Registry: Docker Hub
+  K8s Ready:         Can be prepared
+
+Build Information:
+  Build Tool:        Maven 3.8.1+
+  Package Format:    JAR + Docker Image
+  Build Time:        ~2 minutes
+  Test Coverage:     Partial
+
+Maintenance:
+  Last Updated:      2024-01-15
+  Maintained By:     Akkalavenkat
+  Support Status:    Active Development
+  License:           MIT License
+
+Documentation:
+  README:            Complete
+  API Docs:          OpenAPI 3.0 / Swagger
+  Architecture:      Documented
+  Build Guide:       Included
+  Contributing:      Guidelines provided
+  Examples:          Full API examples
+
+Repository Tags:
+  - spring-boot
+  - banking
+  - payments
+  - rest-api
+  - jwt
+  - postgresql
+  - redis
+  - docker
+  - enterprise
+
+Initial Commit Details:
+  Date:              2024-01-15
+  Author:            Akkalavenkat
+  Message:           Initial commit: Banking Payment Service project
+  Files Added:       45+
+  Insertions:        8000+
+
+---
+Generated: 2024-01-15

@@ -228,3 +228,11 @@ mvn spotless:apply
 # Run security scan
 mvn dependency-check:check
 ```
+
+---
+
+**Build Guide Information**
+- **Created**: January 2024
+- **Last Updated**: 2024-01-15
+- **Java Version**: 21
+- **Maven Version**: 3.8.1+

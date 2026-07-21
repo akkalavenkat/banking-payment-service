@@ -92,3 +92,11 @@
 
 ### License
 MIT License
+
+---
+
+**Repository Metadata**
+- **Repository Created**: January 15, 2024
+- **Initial Commit Date**: 2024-01-15
+- **Latest Update**: 2024-01-15
+- **Maintained By**: Akkalavenkat
